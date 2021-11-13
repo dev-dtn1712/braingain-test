@@ -1,0 +1,15 @@
+.custom-past-tooltip {
+  padding: 6px;
+  background-color: #8884d8;
+  opacity: 0.7
+}
+
+.custom-future-tooltip {
+  padding: 6px;
+  background-color: #aafffe;
+  opacity: 0.7
+}
+
+.label {
+  font-size: 10px;
+}

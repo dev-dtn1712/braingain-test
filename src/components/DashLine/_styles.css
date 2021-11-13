@@ -1,0 +1,9 @@
+.flex_center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dash_line {
+  border-top: 2px dashed #191a19;
+  width: 100%;
+}
